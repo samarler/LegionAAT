@@ -19,6 +19,7 @@ BOM ATT
 	Motor Driver break out board (support two motors)
 	Six amber 3v LEDs
 	Resisters as needed
+	Lithium Ion Polymer Battery - 3.7v 500mAh
 	attTurret.stl - STL file for parts needed to mount the main turret to the body using a bearing for smooth movement.
 	ATTTurretMotorMount.stl - STL file for parts needed to mount the N20 DC motor inside the body and drive the turret.
 	ATTGunBearing.stl - STL file for parts needed to mount bearings and axel to the side guns.
@@ -31,4 +32,5 @@ BOM Controller
 	Three 6mm slim tactile switch buttons
 	Thru-hole 5-way navigation switch
 	SSD1306 .96 6128 x 64 OLED Monochrome Graphic Display
+	USB battery pack
  
