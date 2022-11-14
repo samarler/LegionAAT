@@ -16,6 +16,7 @@ BOM ATT
 	Adafruit Feather RF52 Bluefruit LE - RF52832
 	12mm x 18mm x 4mm ball bearing for the turret)
 	Four 3mm x 7mm x 3mm ball bearings (for the side guns)
+	Motor Driver break out board (support two motors)
 	attTurret.stl - STL file for parts needed to mount the main turret to the body using a bearing for smooth movement.
 	ATTTurretMotorMount.stl - STL file for parts needed to mount the N20 DC motor inside the body and drive the turret.
 	ATTGunBearing.stl - STL file for parts needed to mount bearings and axel to the side guns.
