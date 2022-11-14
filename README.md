@@ -9,6 +9,7 @@ The idea of the project is to use a Raspberry PI Zero W as a controller to move 
 Most parts are available from Adafruit.
 
 BOM ATT
+
    Star Wars Legion ATT miniture
    Two N20 low speed motors
    Toy car gear and axle kit with various sizes of axles and belt pulley gears
@@ -20,6 +21,7 @@ BOM ATT
    ATTGunBearing.stl - STL file for parts needed to mount bearings and axel to the side guns.
    
 BOM Controller
+
   Raspberry PI Zero W
   Adafruit Perma Proto Bonnet Mini Kit
   Three 6mm slim tactile switch buttons
