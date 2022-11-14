@@ -26,4 +26,3 @@ BOM Controller
   Thru-hole 5-way navigation switch
   SSD1306 .96 6128 x 64 OLED Monochrome Graphic Display
  
-
