@@ -3,18 +3,9 @@
  Version 0.11.14.22
 
  Code is written for the Adafruit Feather RF52 Bluefruit LE.
- 
- Pin assignments:
-   11 - Clock out for 1ppb
-   10 - Clock out for 24ppb
-   9 - Clock out for 48ppb
-   7 - CS for SPI connection to MAX72xx
-  A1 - Connected to 10k pot for internal clock rate
 
  Written by Scott Marler. GNU General Public License v3.0, check license.txt
  for more information.
- 
-
  **************************************************************************/
 #include <Arduino.h>
 #include <SPI.h>
