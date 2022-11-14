@@ -4,7 +4,7 @@ PROJECT DOCUMENTATION IS NOT YET COMPLETE
 
 Star Wars Legion ATT Lighted and Motorized Modification
 
-The idea of the project is to use a Raspberry PI Zero W as a controller to activate LEDs mounting in the lower missle silos and move the turret and side guns of a Star Wars Legion ATT. The ATT's side guns and turret are connected to low speed motors which are controlled by an Adafruit Feather RF52 Bluefruit LE. Connectivity between the PI and Feather uses Bluetooth.
+The idea of the project is to use a Raspberry PI Zero W as a controller to activate LEDs mounting in the lower missle silos and move the turret and side guns of a Star Wars Legion ATT. The ATT's side guns and turret are connected to low speed motors which are controlled by an Adafruit Feather 32u4 Bluefruit. Connectivity between the PI and Feather uses Bluetooth.
 
 Most parts are available from Adafruit.
 
