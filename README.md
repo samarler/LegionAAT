@@ -12,7 +12,7 @@ BOM ATT
    Star Wars Legion ATT miniture
    Two N20 low speed motors
    Toy car gear and axle kit with various sizes of axles and belt pulley gears
-   Adafruit RF52 Bluefruit LE - RF52832
+   Adafruit Feather RF52 Bluefruit LE - RF52832
    12mm x 18mm x 4mm ball bearing for the turret)
    Four 3mm x 7mm x 3mm ball bearings (for the side guns)
    attTurret.stl - STL file for parts needed to mount the main turret to the body using a bearing for smooth movement.
