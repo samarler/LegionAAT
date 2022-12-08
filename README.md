@@ -1,19 +1,19 @@
 # LegionATT
 
-PROJECT DOCUMENTATION IS NOT YET COMPLETE
+THIS PROJECT IS UNDER DEVELOPMENT AND NOT YET COMPLETE
 
 Star Wars Legion ATT Lighted and Motorized Modification
 
-The idea of the project is to use a Raspberry PI Zero W as a controller to activate LEDs mounting in the lower missle silos and move the turret and side guns of a Star Wars Legion ATT. The ATT's side guns and turret are connected to low speed motors which are controlled by an Adafruit Feather 32u4 Bluefruit. Connectivity between the PI and Feather uses Bluetooth.
+Modify a Star Wars Legion ATT to motorize the main turret and side weapons which are controled by a remote controller conneceted over BTLE. 
+The ATT is uses an Adafruit Feather 32u4 Bluefruit to recieve and execute commands.
 
-Most parts are available from Adafruit.
+Included in this repository are stl files for printing out parts needed to complete the modification, a circuit diagram and the code for the Adafruit Feather 32u4 Bluefruit along with instructions on how to complete the modification.
 
-BOM ATT
-
+Build of Materials
 	Star Wars Legion ATT miniture
 	Two 3v N20 low speed motors
 	Toy car gear and axle kit with various sizes of axles and belt pulley gears
-	Adafruit Feather RF52 Bluefruit LE - RF52832
+	Adafruit Feather 32u4 Bluefruit
 	12mm x 18mm x 4mm ball bearing for the turret)
 	Four 3mm x 7mm x 3mm ball bearings (for the side guns)
 	Motor Driver break out board (support two motors)
@@ -24,13 +24,5 @@ BOM ATT
 	ATTTurretMotorMount.stl - STL file for parts needed to mount the N20 DC motor inside the body and drive the turret.
 	ATTGunBearing.stl - STL file for parts needed to mount bearings and axel to the side guns.
    
-   
-BOM Controller
 
-	Raspberry PI Zero W
-	Adafruit Perma Proto Bonnet Mini Kit
-	Three 6mm slim tactile switch buttons
-	Thru-hole 5-way navigation switch
-	SSD1306 .96 6128 x 64 OLED Monochrome Graphic Display
-	USB battery pack
  
