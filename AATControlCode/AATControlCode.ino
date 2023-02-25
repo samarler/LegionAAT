@@ -25,16 +25,16 @@
 #define FACTORYRESET_ENABLE         0
 #define MINIMUM_FIRMWARE_VERSION    "0.6.6"
 #define MODE_LED_BEHAVIOUR          "MODE"
-#define TPIN1 12
-#define TPIN2 13
-#define GPIN1 11
-#define GPIN2 10
+#define TPIN1 11
+#define TPIN2 12
+#define GPIN1 6
+#define GPIN2 5
 #define LED1 A0
 #define LED2 A1
 #define LED3 A2
 #define LED4 A3
-#define LED5 A5
-#define LED6 A4
+#define LED5 A4
+#define LED6 A5
 //Array used for LEDs
 int leds[10] = {LED1,LED2,LED3,LED4,LED5,LED6};
 //Setup Bluetooth
